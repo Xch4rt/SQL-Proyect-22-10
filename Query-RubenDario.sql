@@ -8,7 +8,7 @@ precio, el cual depende de la cantidad de personas
 */
 
 
-create table Eventos(
+Create table Eventos(
 	IdEvento int primary key ,
 	Fecha_Realizacion datetime,
 	Salon varchar(10),
@@ -16,9 +16,11 @@ create table Eventos(
 	Cantidad int,
 	Precio float,
 	-- FKs
-	IdCliente int foreign key references Cliente(IdCLiente)
+	IdCliente int foreign key references Cliente(IdCLiente),
 	IdBoleto int foreign key references Boleto(IdBoleto),
-	IdSalon int foreign key references Salon(IdSalon)
+	IdSalon int foreign key references Salon(IdSalon),
+	IdServicio int foreign key references Servicio(IdServicio)
+
 )
 
 create table Boleto(
@@ -34,10 +36,10 @@ create table Ventas(
 )
 
 create table Detalles_Costos(
-	IdDBoleto int primary key ,
 	CostoAsiento float,
 	Porcentaje_Cliente float, 
-	Porcentaje_Teatro float
+	Porcentaje_Teatro float,
+	IdBoleto int foreign key references Boleto(IdBoleto)
 )
 
 
@@ -46,12 +48,7 @@ create table Salon(
 	TipoSalon varchar (40)
 )
 
-create table Detalles_BCosto(
-	IdDBoleto int primary key ,
-	Costo_Asiento float,
-	Porcentaje_cliente float,
-	Porcentaje_teatro float
-)
+
 
 create table Cliente(
 	IdCliente int primary key ,
@@ -85,7 +82,7 @@ create table Servicio(
 
 create table DetalleServicio(
 	Descripcion varchar (100),
-	Cantidad int
+	Cantidad int,
 	--Fks
 	IdServicio int foreign key references Servicio(IdServicio)
 )
