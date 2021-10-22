@@ -1,0 +1,10 @@
+D:\Ariel\Base de datos I\Trabajo duo\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\obj\Debug\SistemaTeatroNacionalRD.csprojAssemblyReference.cache
+D:\Ariel\Base de datos I\Trabajo duo\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\obj\Debug\SistemaTeatroNacionalRD.Properties.Resources.resources
+D:\Ariel\Base de datos I\Trabajo duo\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\obj\Debug\SistemaTeatroNacionalRD.Views.FrmLoggin.resources
+D:\Ariel\Base de datos I\Trabajo duo\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\obj\Debug\SistemaTeatroNacionalRD.csproj.GenerateResource.cache
+D:\Ariel\Base de datos I\Trabajo duo\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\obj\Debug\SistemaTeatroNacionalRD.csproj.CoreCompileInputs.cache
+D:\Ariel\Base de datos I\Trabajo duo\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\bin\Debug\SistemaTeatroNacionalRD.exe.config
+D:\Ariel\Base de datos I\Trabajo duo\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\bin\Debug\SistemaTeatroNacionalRD.exe
+D:\Ariel\Base de datos I\Trabajo duo\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\bin\Debug\SistemaTeatroNacionalRD.pdb
+D:\Ariel\Base de datos I\Trabajo duo\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\obj\Debug\SistemaTeatroNacionalRD.exe
+D:\Ariel\Base de datos I\Trabajo duo\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\obj\Debug\SistemaTeatroNacionalRD.pdb
