@@ -10,16 +10,7 @@ namespace SistemaTeatroNacionalRD.Model
 {
     class MUsuario
     {
-        int idUsuario;
-        string usuario;
-        string contraseña;
-        string rol;
-
-        public int IdUsuario { get => idUsuario; set => idUsuario = value; }
-        public string Usuario { get => usuario; set => usuario = value; }
-        public string Contraseña { get => contraseña; set => contraseña = value; }
-        public string Rol { get => rol; set => rol = value; }
-
+ 
         public DataTable Validar_acceso(string usuario, string contraseña)
         {
             DataTable DtResultado = new DataTable("Inicio_Sesión");
@@ -54,6 +45,7 @@ namespace SistemaTeatroNacionalRD.Model
             catch (Exception ex)
             {
                 DtResultado = null;
+                Console.WriteLine(ex.ToString());
             }
             return DtResultado;
 

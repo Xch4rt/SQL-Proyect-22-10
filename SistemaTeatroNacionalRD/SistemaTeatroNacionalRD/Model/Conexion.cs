@@ -8,7 +8,7 @@ namespace SistemaTeatroNacionalRD.Model
 {
     class Conexion
     {
-        public static string Cn = "Data Source=DESKTOP-6PDU0AL; Initial Catalog=Teatro_Nacional; user=Ariel.exe; password =1234prueba";
+        public static string Cn = "Data Source=ANDRES; Initial Catalog=Teatro_Nacional; user=adminPablo; password=PaGu23.2021#";
     }
 }
 

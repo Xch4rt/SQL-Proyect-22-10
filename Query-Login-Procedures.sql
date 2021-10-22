@@ -6,6 +6,7 @@ go
 Create Login adminPablo with password = 'PaGu23.2021#'
 go
 
+Grant execute on Validar_Acceso to adminPablo
 sp_adduser adminAriel, adminAriel
 
 sp_adduser adminPablo, adminPablo
@@ -36,6 +37,7 @@ Create procedure [dbo].[Insertar_Usuario]
  --values ('uni', 'sistemas2021', 'Administrador')
 
  Execute dbo.Insertar_Usuario 'Ariel.exe', '1234prueba', 'Administrador'
+ Execute dbo.Insertar_Usuario 'PabloPon', 'prueba12345', 'Administrador'
  Select * from Usuario
  update Usuario set estado = 'Habilitado' where IdUsuario = 1
 
@@ -55,7 +57,7 @@ Create procedure [dbo].[Insertar_Usuario]
 
  update Usuario set IdColaborador = 1
 
-alter procedure [dbo].[Validar_Acceso]
+create procedure [dbo].[Validar_Acceso]
 @usuario varchar(50),
 @contraseña varchar(50)
 as

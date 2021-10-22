@@ -8,3 +8,13 @@ D:\Ariel\Base de datos I\Trabajo duo\SQL-Proyect-22-10\SistemaTeatroNacionalRD\S
 D:\Ariel\Base de datos I\Trabajo duo\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\bin\Debug\SistemaTeatroNacionalRD.pdb
 D:\Ariel\Base de datos I\Trabajo duo\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\obj\Debug\SistemaTeatroNacionalRD.exe
 D:\Ariel\Base de datos I\Trabajo duo\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\obj\Debug\SistemaTeatroNacionalRD.pdb
+C:\Users\Pablo\Desktop\Bases_De_Datos_1\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\bin\Debug\SistemaTeatroNacionalRD.exe.config
+C:\Users\Pablo\Desktop\Bases_De_Datos_1\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\bin\Debug\SistemaTeatroNacionalRD.exe
+C:\Users\Pablo\Desktop\Bases_De_Datos_1\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\bin\Debug\SistemaTeatroNacionalRD.pdb
+C:\Users\Pablo\Desktop\Bases_De_Datos_1\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\obj\Debug\SistemaTeatroNacionalRD.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\Bases_De_Datos_1\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\obj\Debug\SistemaTeatroNacionalRD.Properties.Resources.resources
+C:\Users\Pablo\Desktop\Bases_De_Datos_1\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\obj\Debug\SistemaTeatroNacionalRD.Views.FrmLoggin.resources
+C:\Users\Pablo\Desktop\Bases_De_Datos_1\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\obj\Debug\SistemaTeatroNacionalRD.csproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Bases_De_Datos_1\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\obj\Debug\SistemaTeatroNacionalRD.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Bases_De_Datos_1\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\obj\Debug\SistemaTeatroNacionalRD.exe
+C:\Users\Pablo\Desktop\Bases_De_Datos_1\SQL-Proyect-22-10\SistemaTeatroNacionalRD\SistemaTeatroNacionalRD\obj\Debug\SistemaTeatroNacionalRD.pdb
